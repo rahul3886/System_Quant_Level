@@ -1,0 +1,48 @@
+{
+    "metrics": {
+        "total_trades": 5,
+        "win_rate": 0.2,
+        "profit_factor": 0.04371965979690892,
+        "total_pnl": -183.9318271082542,
+        "avg_win": 8.409078979171458,
+        "avg_loss": -48.08522652185641,
+        "max_drawdown": -127.34220204405176
+    },
+    "trades": [
+        {
+            "timestamp": "2026-02-13 01:00:00",
+            "signal": "SELL",
+            "entry": 4892.43,
+            "pnl": -56.58962506420244,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 01:05:00",
+            "signal": "SELL",
+            "entry": 4908.17,
+            "pnl": -45.345150262117414,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 03:00:00",
+            "signal": "BUY",
+            "entry": 4957.23,
+            "pnl": 8.409078979171458,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 07:30:00",
+            "signal": "SELL",
+            "entry": 4967.6,
+            "pnl": -51.54044063386705,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 15:15:00",
+            "signal": "SELL",
+            "entry": 4913.11,
+            "pnl": -38.86569012723873,
+            "regime": "TRENDING_WEAK"
+        }
+    ]
+}

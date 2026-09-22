@@ -1,0 +1,41 @@
+{
+    "metrics": {
+        "total_trades": 4,
+        "win_rate": 0.25,
+        "profit_factor": 0.41805896709031654,
+        "total_pnl": -19.734783609115407,
+        "avg_win": 14.177215189873255,
+        "avg_loss": -11.303999599662887,
+        "max_drawdown": -33.91199879898866
+    },
+    "trades": [
+        {
+            "timestamp": "2026-02-17 18:20:00",
+            "signal": "BUY",
+            "entry": 84.19,
+            "pnl": 14.177215189873255,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 18:36:00",
+            "signal": "BUY",
+            "entry": 85.03,
+            "pnl": -2.173619860661697,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 18:40:00",
+            "signal": "BUY",
+            "entry": 85.37,
+            "pnl": -7.665440252674729,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 06:45:00",
+            "signal": "BUY",
+            "entry": 85.28,
+            "pnl": -24.072938685652236,
+            "regime": "TRENDING_WEAK"
+        }
+    ]
+}

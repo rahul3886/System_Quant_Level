@@ -1,0 +1,27 @@
+{
+    "metrics": {
+        "total_trades": 2,
+        "win_rate": 1.0,
+        "profit_factor": Infinity,
+        "total_pnl": 43.23420661672648,
+        "avg_win": 21.61710330836324,
+        "avg_loss": 0,
+        "max_drawdown": 0.0
+    },
+    "trades": [
+        {
+            "timestamp": "2026-02-17 09:30:00",
+            "signal": "SELL",
+            "entry": 1.35599,
+            "pnl": 7.235955056181665,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 13:30:00",
+            "signal": "SELL",
+            "entry": 1.35819,
+            "pnl": 35.998251560544816,
+            "regime": "TRENDING_WEAK"
+        }
+    ]
+}

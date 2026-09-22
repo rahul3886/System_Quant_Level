@@ -1,0 +1,20 @@
+{
+    "metrics": {
+        "total_trades": 1,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "total_pnl": -49.00000000001553,
+        "avg_win": 0,
+        "avg_loss": -49.00000000001553,
+        "max_drawdown": 0.0
+    },
+    "trades": [
+        {
+            "timestamp": "2026-02-16 15:45:00",
+            "signal": "SELL",
+            "entry": 0.76964,
+            "pnl": -49.00000000001553,
+            "regime": "TRENDING_WEAK"
+        }
+    ]
+}

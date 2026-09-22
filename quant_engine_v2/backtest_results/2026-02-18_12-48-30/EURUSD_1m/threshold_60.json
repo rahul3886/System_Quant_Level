@@ -1,0 +1,545 @@
+{
+    "metrics": {
+        "total_trades": 76,
+        "win_rate": 0.47368421052631576,
+        "profit_factor": 0.4840080897547568,
+        "total_pnl": -1373.0226746278283,
+        "avg_win": 35.775436092739945,
+        "avg_loss": -66.52345934916166,
+        "max_drawdown": -1582.5849253519152
+    },
+    "trades": [
+        {
+            "timestamp": "2026-02-13 10:50:00",
+            "signal": "BUY",
+            "entry": 1.1859899999999999,
+            "pnl": 3.2558139535102275,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 10:51:00",
+            "signal": "BUY",
+            "entry": 1.18601,
+            "pnl": -10.892434108527922,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 12:59:00",
+            "signal": "BUY",
+            "entry": 1.18574,
+            "pnl": -13.715008560569753,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 13:43:00",
+            "signal": "SELL",
+            "entry": 1.18554,
+            "pnl": -977.9075403796683,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 14:08:00",
+            "signal": "BUY",
+            "entry": 1.18605,
+            "pnl": -15.493078479435972,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 15:30:00",
+            "signal": "BUY",
+            "entry": 1.18801,
+            "pnl": -17.600732222858653,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 15:33:00",
+            "signal": "BUY",
+            "entry": 1.18763,
+            "pnl": -7.042883757328667,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 15:34:00",
+            "signal": "BUY",
+            "entry": 1.1874,
+            "pnl": -3.4463862063247936,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 17:47:00",
+            "signal": "SELL",
+            "entry": 1.18574,
+            "pnl": 19.08264042442968,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 18:22:00",
+            "signal": "BUY",
+            "entry": 1.18637,
+            "pnl": 4.597586541564193,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 18:23:00",
+            "signal": "BUY",
+            "entry": 1.18649,
+            "pnl": 11.43015742552904,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 19:05:00",
+            "signal": "BUY",
+            "entry": 1.18733,
+            "pnl": 6.171164406131743,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 20:58:00",
+            "signal": "SELL",
+            "entry": 1.1873,
+            "pnl": -19.891286871546512,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 20:59:00",
+            "signal": "SELL",
+            "entry": 1.18736,
+            "pnl": -38.67682220629836,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 22:40:00",
+            "signal": "BUY",
+            "entry": 1.18681,
+            "pnl": 1.6913269818952257,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 22:42:00",
+            "signal": "BUY",
+            "entry": 1.18683,
+            "pnl": 13.909097248562675,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-13 23:38:00",
+            "signal": "SELL",
+            "entry": 1.18688,
+            "pnl": 0.0,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 00:00:00",
+            "signal": "BUY",
+            "entry": 1.18752,
+            "pnl": -68.80423313341124,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 00:01:00",
+            "signal": "SELL",
+            "entry": 1.18662,
+            "pnl": 7.775833958466862,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 00:24:00",
+            "signal": "BUY",
+            "entry": 1.18709,
+            "pnl": 1.7294750695978132,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 01:00:00",
+            "signal": "SELL",
+            "entry": 1.1868400000000001,
+            "pnl": 0.10493951810015503,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 01:59:00",
+            "signal": "BUY",
+            "entry": 1.18666,
+            "pnl": -11.471515890803303,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 02:01:00",
+            "signal": "BUY",
+            "entry": 1.18663,
+            "pnl": -8.884806113727924,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 02:42:00",
+            "signal": "BUY",
+            "entry": 1.18639,
+            "pnl": -1.150582391733144,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 04:21:00",
+            "signal": "BUY",
+            "entry": 1.18647,
+            "pnl": -5.647581370581553,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 04:27:00",
+            "signal": "BUY",
+            "entry": 1.18642,
+            "pnl": 15.520965501711201,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 07:30:00",
+            "signal": "SELL",
+            "entry": 1.18624,
+            "pnl": 18.70451391436843,
+            "regime": "RANGING"
+        },
+        {
+            "timestamp": "2026-02-16 07:59:00",
+            "signal": "BUY",
+            "entry": 1.18648,
+            "pnl": -3.3994603834199264,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 08:44:00",
+            "signal": "BUY",
+            "entry": 1.187,
+            "pnl": -8.495406019125214,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 08:56:00",
+            "signal": "SELL",
+            "entry": 1.18667,
+            "pnl": 46.68013222336829,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 08:59:00",
+            "signal": "SELL",
+            "entry": 1.18659,
+            "pnl": 20.8556457412063,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 09:00:00",
+            "signal": "SELL",
+            "entry": 1.18655,
+            "pnl": -15.678231685944652,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 10:03:00",
+            "signal": "BUY",
+            "entry": 1.1867,
+            "pnl": 14.730159793379862,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 10:23:00",
+            "signal": "SELL",
+            "entry": 1.18615,
+            "pnl": 4.479020731488674,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 10:24:00",
+            "signal": "SELL",
+            "entry": 1.18614,
+            "pnl": 33.46007647231321,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 10:29:00",
+            "signal": "SELL",
+            "entry": 1.18624,
+            "pnl": -12.594372784229979,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 10:30:00",
+            "signal": "SELL",
+            "entry": 1.18625,
+            "pnl": 78.60462913931306,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 10:58:00",
+            "signal": "BUY",
+            "entry": 1.18654,
+            "pnl": -6.47285058318608,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 11:09:00",
+            "signal": "BUY",
+            "entry": 1.18659,
+            "pnl": -2.347726880036548,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 14:56:00",
+            "signal": "SELL",
+            "entry": 1.18502,
+            "pnl": -13.579755358509912,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 15:45:00",
+            "signal": "BUY",
+            "entry": 1.18543,
+            "pnl": -10.745173593774254,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 15:52:00",
+            "signal": "BUY",
+            "entry": 1.18565,
+            "pnl": -15.60541164703578,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 16:48:00",
+            "signal": "SELL",
+            "entry": 1.18545,
+            "pnl": -210.30893096212608,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 17:37:00",
+            "signal": "BUY",
+            "entry": 1.18558,
+            "pnl": -10.624227029704643,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-16 20:58:00",
+            "signal": "SELL",
+            "entry": 1.18489,
+            "pnl": -61.546147182975204,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 07:03:00",
+            "signal": "SELL",
+            "entry": 1.18397,
+            "pnl": 152.78831038037893,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 07:07:00",
+            "signal": "SELL",
+            "entry": 1.18397,
+            "pnl": 279.8317904620355,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 09:00:00",
+            "signal": "SELL",
+            "entry": 1.18423,
+            "pnl": 99.13111841764635,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 09:01:00",
+            "signal": "SELL",
+            "entry": 1.1840600000000001,
+            "pnl": 27.787535437550424,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 09:05:00",
+            "signal": "SELL",
+            "entry": 1.18386,
+            "pnl": -18.967694502045997,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 12:00:00",
+            "signal": "SELL",
+            "entry": 1.18426,
+            "pnl": -38.176071514149925,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 12:01:00",
+            "signal": "SELL",
+            "entry": 1.18436,
+            "pnl": -9.23315558177703,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 13:59:00",
+            "signal": "SELL",
+            "entry": 1.18308,
+            "pnl": 13.32344350470928,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 14:00:00",
+            "signal": "SELL",
+            "entry": 1.18295,
+            "pnl": 3.4031958467885004,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 16:43:00",
+            "signal": "BUY",
+            "entry": 1.1826,
+            "pnl": 1.4061857273816463,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 17:00:00",
+            "signal": "SELL",
+            "entry": 1.18179,
+            "pnl": 6.635321718936505,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 17:04:00",
+            "signal": "SELL",
+            "entry": 1.18195,
+            "pnl": -28.148188700862097,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 17:05:00",
+            "signal": "SELL",
+            "entry": 1.18205,
+            "pnl": 99.2981487555101,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 17:28:00",
+            "signal": "SELL",
+            "entry": 1.18097,
+            "pnl": 41.317959697194574,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 18:02:00",
+            "signal": "BUY",
+            "entry": 1.18142,
+            "pnl": -8.35162179267688,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 18:05:00",
+            "signal": "BUY",
+            "entry": 1.18142,
+            "pnl": 8.986030131059223,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 18:06:00",
+            "signal": "BUY",
+            "entry": 1.18156,
+            "pnl": 6.779229342277595,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 18:07:00",
+            "signal": "BUY",
+            "entry": 1.18168,
+            "pnl": -6.660469249076941,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 20:32:00",
+            "signal": "BUY",
+            "entry": 1.1847,
+            "pnl": 16.38334540731514,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-17 22:00:00",
+            "signal": "BUY",
+            "entry": 1.18495,
+            "pnl": -9.213763515368406,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 01:41:00",
+            "signal": "SELL",
+            "entry": 1.1851,
+            "pnl": -163.95892175662456,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 03:57:00",
+            "signal": "BUY",
+            "entry": 1.18463,
+            "pnl": 6.665778232771613,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 03:59:00",
+            "signal": "BUY",
+            "entry": 1.18462,
+            "pnl": -66.78546372272345,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 04:00:00",
+            "signal": "SELL",
+            "entry": 1.18433,
+            "pnl": -704.1652029795097,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 04:44:00",
+            "signal": "BUY",
+            "entry": 1.18454,
+            "pnl": 2.2725331550509718,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 04:45:00",
+            "signal": "BUY",
+            "entry": 1.18455,
+            "pnl": 4.377908871314046,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 04:53:00",
+            "signal": "BUY",
+            "entry": 1.1846,
+            "pnl": -9.239439863314505,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 04:56:00",
+            "signal": "BUY",
+            "entry": 1.18455,
+            "pnl": 0.0,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 07:30:00",
+            "signal": "BUY",
+            "entry": 1.18434,
+            "pnl": 8.438248435205383,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 08:01:00",
+            "signal": "BUY",
+            "entry": 1.18452,
+            "pnl": -26.015794985452327,
+            "regime": "TRENDING_WEAK"
+        },
+        {
+            "timestamp": "2026-02-18 09:09:00",
+            "signal": "SELL",
+            "entry": 1.18422,
+            "pnl": 206.30643677057563,
+            "regime": "TRENDING_WEAK"
+        }
+    ]
+}
